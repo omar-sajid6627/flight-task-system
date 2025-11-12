@@ -36,7 +36,7 @@ Before setting up the project, ensure you have the following installed:
 ## Project Structure
 
 ```
-flyflat_test/
+flight-task-system/
 ├── api/                # FastAPI application
 │   ├── main.py        # Main API entry point
 │   └── routes/        # API route handlers
@@ -52,8 +52,8 @@ flyflat_test/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/omar-sajid6627/flyflat_test.git
-cd flyflat_test
+git clone https://github.com/omar-sajid6627/flight-task-system.git
+cd flight-task-system
 ```
 
 2. Create and activate a virtual environment:
